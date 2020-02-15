@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nayiad </title>
+    <link>https://nayiad.github.io/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2020</rights>
+    <updated>2020-02-15 18:46:02 &#43;0800 CST</updated>
+
+    
+      <item>
+        <title>First</title>
+        <link>https://nayiad.github.io/posts/first/</link>
+        <pubDate>Sat, 15 Feb 2020 18:46:02 CST</pubDate>
+        <author></author>
+        <guid>https://nayiad.github.io/posts/first/</guid>
+        <description>&lt;p&gt;##first
+so creat&lt;/p&gt;
+</description>
+      </item>
+    
+
+  </channel>
+</rss>
